@@ -9,7 +9,7 @@ Ce dépôt est une application simple pour lister des étudiants avec un serveur
 
 ## Objectifs
 
-Les objectifs de projet pratique sont de s'assurer que vous êtes capable de gérer une infrastructure Docker. Vous serez évalué sur les points suivants :
+Les objectifs de ce projet pratique sont de s'assurer que vous êtes capable de gérer une infrastructure Docker. Vous serez évalué sur les points suivants :
 
 ### Themes:
 - Améliorer le processus de déploiement d'une application existante
