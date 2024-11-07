@@ -58,7 +58,7 @@ student_list a deux modules :
 
 Votre travail consiste à construire un conteneur pour chaque module et à les faire interagir entre eux.
 
-Le code source de l'application peut être trouvé [ici](https://github.com/diranetafen/student-list.git "ici").
+Le code source de l'application peut être trouvé [ici]([https://github.com/diranetafen/student-list.git ](https://github.com/nzapanarcisse/docker-datascientest-recap.git)"ici").
 
 Les fichiers que vous devez fournir (dans votre livraison) sont ***Dockerfile*** et ***docker-compose.yml*** (actuellement, les deux sont vides).
 
@@ -96,7 +96,7 @@ N'oubliez pas de pousser votre image sur votre registre privé et de les montrer
 # PROPOSITION D'UNE SOLUTION
 
 mkdir mini-projet-docker 
-cd mini-projet-docker puis git clone https://github.com/nzapanarcisse/student-list.git
+cd mini-projet-docker puis git clone [https://github.com/nzapanarcisse/student-list.git](https://github.com/nzapanarcisse/docker-datascientest-recap.git)
 
 ```bash
 cd simple_api
