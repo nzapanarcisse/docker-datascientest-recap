@@ -96,11 +96,11 @@ N'oubliez pas de pousser votre image sur votre registre privé et de les montrer
 mkdir mini-projet-docker 
 cd mini-projet-docker puis git clone https://github.com/nzapanarcisse/student-list.git
 ```bash
-- cd simple_api
-- docker build . -t api-pozos:1```
+cd simple_api
+docker build . -t api-pozos:1```
 ![image](https://github.com/user-attachments/assets/09b6a479-be02-42c5-bddb-a28359aa0fb7)
 ```bash
-- docker images```
+docker images```
 ![image](https://github.com/user-attachments/assets/cc34bf13-4a52-4f08-8984-572c134f175b)
 # Création du Réseau Pozos
 
