@@ -96,7 +96,7 @@ N'oubliez pas de pousser votre image sur votre registre privé et de les montrer
 # PROPOSITION D'UNE SOLUTION
 
 mkdir mini-projet-docker 
-cd mini-projet-docker puis git clone [https://github.com/nzapanarcisse/student-list.git](https://github.com/nzapanarcisse/docker-datascientest-recap.git)
+cd mini-projet-docker puis git clone https://github.com/nzapanarcisse/docker-datascientest-recap.git
 
 ```bash
 cd simple_api
